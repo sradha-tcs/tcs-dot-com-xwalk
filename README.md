@@ -1,13 +1,16 @@
 # Your Project's Title...
+
 Your project's description...
 
 ## Environments
+
 - Preview: https://main--{repo}--{owner}.aem.page/
 - Live: https://main--{repo}--{owner}.aem.live/
 
 ## Documentation
 
 Before using the aem-boilerplate, we recommend you to go through the documentation on [www.aem.live](https://www.aem.live/docs/), more specifically:
+
 1. [AEM Authoring](https://www.aem.live/docs/aem-authoring)
 2. [Universal Editor Tutorial](https://www.aem.live/developer/ue-tutorial)
 3. [Component Model Definitions](https://www.aem.live/developer/component-model-definitions)
@@ -29,3 +32,5 @@ npm i
 ```sh
 npm run lint
 ```
+
+cache refresh
