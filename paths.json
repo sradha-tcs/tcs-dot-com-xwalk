@@ -1,0 +1,7 @@
+{
+  "mappings": [
+    "/content/tcs-dot-com-xwalk-site/:/",
+    "/content/tcs-dot-com-xwalk-site/configuration:/.helix/config.json"
+  ],
+  "includes": ["/content/tcs-dot-com-xwalk-site/"]
+}
